@@ -1,0 +1,43 @@
+* {
+    font-family:'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+
+.fondoNav {
+    background-color:#EAC926; /*Yellow*/
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.busqueda{
+    width: 70%;
+}
+
+.busqueda,.boton-busqueda{
+    padding:10px;
+    border:0px;
+    border-radius:5px;
+    background-color: white;
+    margin: 0px;
+}
+
+
+.homeBanner{
+    display: relative;
+    width: 100%;
+}
+
+.texto {
+    margin:auto;
+}
+
+.menu{
+    display: none;
+}
+
+.ultimaVisita{
+    height:40px;
+    width:100%;
+    text-align: center;
+    color: grey;
+}
